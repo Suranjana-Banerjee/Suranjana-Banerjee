@@ -2,9 +2,6 @@
   <img src="https://github.com/Suranjana-Banerjee/Suranjana-Banerjee/blob/main/github-header-banner%20(1).png" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Suranjana </h1>
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Pentester</h3>
-
 ---
 
 ## 🙋‍♀️ About Myself
@@ -20,7 +17,22 @@
 ## 🚀 Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kalilinux,burp suite,wireshark,metasploit,nmap,nessus,python,bash,git," />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
