@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Suranjana-Banerjee/Suranjana-Banerjee/blob/main/github-header-banner.png" />
+</p>
 
 <!--
 **Suranjana-Banerjee/Suranjana-Banerjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
