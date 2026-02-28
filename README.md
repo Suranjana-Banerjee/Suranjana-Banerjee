@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Suranjana-Banerjee/Suranjana-Banerjee/blob/main/github-header-banner.png" />
+  <img src="https://github.com/Suranjana-Banerjee/Suranjana-Banerjee/blob/main/github-header-banner%20(1).png" />
 </p>
 
 <!--
