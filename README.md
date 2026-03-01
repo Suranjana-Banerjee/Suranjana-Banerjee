@@ -4,7 +4,7 @@
 
 ---
 
-## 🙋‍♀️ About Myself
+🙋‍♀️ About Myself
 
 - 🎓 BCA Graduate
 - 🏢 Working in Wipro Technologies
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
+🚀 Tech Stack & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🔥 Streak Stats
+🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
