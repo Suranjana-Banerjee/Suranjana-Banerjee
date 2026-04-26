@@ -82,5 +82,4 @@
 - **Cybersecurity Analyst (VAPT)** 
 - Github Link: [**@suranjana_github**](https://github.com/Suranjana-Banerjee)
 - LinkedIn Link: [**@suranjana_linkedin**](https://www.linkedin.com/in/suranjana-banerjee-a674552a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email ID: **suranjanabanerjee445@gmail.com**
-            **suranjanabanerjee2024@gmail.com**
+- Email ID: **suranjanabanerjee445@gmail.com**      **suranjanabanerjee2024@gmail.com**
