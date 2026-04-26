@@ -33,6 +33,7 @@
   - Used tools like SQLMap, DVWA, Nessus
 
 🔹 Cryptography Algoritham and Codes in Python
+
 🔹 Hacking Tools in python
 
 ---
