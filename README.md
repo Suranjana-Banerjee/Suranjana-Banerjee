@@ -48,6 +48,10 @@
 - Wireshark
 - Metasploit
 
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" />
+</p>
+
 ---
 
 📚 **Currently Learning**
@@ -57,14 +61,6 @@
 - OWASP Top 10
 - HackTheBox Labs
 - CEH
-
----
-
-🚀 **Tech Stack & Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker" />
-</p>
 
 ---
 
