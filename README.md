@@ -64,18 +64,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Suranjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suranjana-Banerjee&show_icons=true&theme=radical)
-
----
-
-🔥 **Streak Stats**
+📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suranjana-Banerjee&show_icons=true&theme=radical)" />
+![Suranjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suranjana-Banerjee&show_icons=true&theme=radical)
 </p>
-
 ---
 
 📫 **Connect With Me**
