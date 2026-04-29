@@ -64,6 +64,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Suranjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suranjana-Banerjee&show_icons=true&theme=radical)
+
+---
+
 🔥 **Streak Stats**
 
 <p align="center">
